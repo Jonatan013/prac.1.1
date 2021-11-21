@@ -1,0 +1,13 @@
+﻿Operación Compilar iniciada..
+------ Operación Compilar iniciada: proyecto: BDMercamax, configuración: Debug Any CPU ------
+		C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:1701,1702,2008 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE /errorendlocation /preferreduilang:es-ES /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /debug+ /debug:full /optimize- /out:obj\Debug\BDMercamax.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:7.3 "C:\Users\USUARIO\AppData\Local\Temp\.NETFramework,Version=v4.5.SqlClrAttributes.cs"
+		Cargando las referencias del proyecto...
+		Cargando archivos de proyecto...
+		Compilando el modelo de proyecto y resolviendo las interdependencias de los objetos...
+		Validando el modelo de proyecto...
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\Facturacion.sql(10,86): Error:  SQL71501: Clave externa: [dbo].[FK_Facturacion_ToTable] tiene una referencia no resuelta a Columna [dbo].[Cliente].[cc_cliente].
+Compilación del proyecto "BDMercamax.sqlproj" terminada -- ERROR.
+
+ERROR al compilar.
+========== Compilar: 0 correctos o actualizados, 1 incorrectos, 0 omitidos ==========
+La publicación no puede comenzar hasta que el proyecto esté listo para la compilación. Inténtelo de nuevo después de resolver los errores del proyecto.

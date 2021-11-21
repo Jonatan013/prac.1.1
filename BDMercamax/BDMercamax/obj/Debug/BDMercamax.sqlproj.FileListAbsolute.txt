@@ -1,0 +1,10 @@
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dacpac
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\obj\Debug\Model.xml
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\obj\Debug\refactor.xml
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\obj\Debug\postdeploy.sql
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\obj\Debug\predeploy.sql
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
+D:\prac.1.1\prac.1.1\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
